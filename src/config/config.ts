@@ -10,7 +10,7 @@ const siteConfig = {
     title: 'Your Title | Your Role',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Behavioural Economics\n' +
+      'Behavioural Economics| Energy Economics| \n' +
       '\n' +
       'Christ University \n' +
       '\n' +
