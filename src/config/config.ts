@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'R.S.Vethavarna',
     title: 'Your Title | Your Role',
-    image: getAsset('images/DSC_0241 copy.JPG'), // Customize or replace with your profile image
+    image: getAsset('images/DSC_0241 copy.png'), // Customize or replace with your profile image
     description:
       'Behavioural Economics| Energy Economics| \n' +
       '\n' +
