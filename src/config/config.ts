@@ -17,8 +17,8 @@ const siteConfig = {
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Maximum Happiness for Maximum People for Maximum Time',
+    location: 'Chennai,Tamil Nadu,India',
   },
 
   seo: {
@@ -34,7 +34,6 @@ const siteConfig = {
     { name: 'Research', url: '/research' },
     { name: 'Education', url: '/education' },
     { name: 'Experience', url: '/experience' },
-    { name: 'Blogs', url: '/blogs' },
     { name: 'Resume', url: '/resume' },
     { name: 'Contact', url: '/contact' },
   ],
