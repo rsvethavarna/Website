@@ -7,12 +7,12 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'R.S.Vethavarna',
-    title: 'Your Title | Your Role',
+    title: '1st Year Student | B.Sc Economics with Data Science',
     image: getAsset('images/DSC_0241 copy.png'), // Customize or replace with your profile image
     description:
-      'Behavioural Economics| Energy Economics| \n' +
+      'Behavioural Economics| Energy Economics| Ergonomics | Environmental Economics \n' +
       '\n' +
-      'Christ University \n' +
+      'Christ University,Bannerghatta Road Campus \n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Your Role', 'Your Focus', 'Pranic Healer', 'Builder'],
 
   navigation: [
     { name: 'Home', url: '/' },
