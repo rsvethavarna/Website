@@ -10,9 +10,9 @@ const siteConfig = {
     title: 'Your Title | Your Role',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Behavioural Economics\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Christ University \n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
@@ -51,9 +51,9 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Christ University,BRC',
+      degree: 'B.Sc Economics with Data Science',
+      year: '2025-2028',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
