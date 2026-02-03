@@ -12,7 +12,7 @@ const siteConfig = {
     description:
       'Behavioural Economics| Energy Economics| Ergonomics | Environmental Economics \n' +
       '\n' +
-      'Christ University,Bannerghatta Road Campus \n' +
+      'Christ University, Bannerghatta Road Campus \n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
@@ -22,11 +22,11 @@ const siteConfig = {
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'R.S.Vethavarna - Student',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Pranic Healer', 'Builder'],
+  animatedText: ['Your Role', 'Your Focus', '', 'Builder'],
 
   navigation: [
     { name: 'Home', url: '/' },
@@ -57,9 +57,9 @@ const siteConfig = {
       description: ['Brief description of your focus or thesis'],
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'Chinmaya Vidyalaya,Anna Nagar',
+      degree: 'Schooling',
+      year: '2011-2025,
       image: getAsset('images/education/placeholder.png'),
       description: ['Key topics or skills learned'],
     },
@@ -147,11 +147,9 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
-    github: 'https://github.com/your-username',
-    googleScholar: 'https://scholar.google.com/citations?user=YOURID',
-    orcid: 'https://orcid.org/0000-0000-0000-0000',
+    email: 'vethavarnarsofficial@gmail.com',
+    linkedin: 'www.linkedin.com/in/vethavarna-rs',
+    github: 'https://github.com/rsvethavarna',
   },
 };
 
